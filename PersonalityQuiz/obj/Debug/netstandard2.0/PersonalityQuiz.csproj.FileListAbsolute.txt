@@ -1,0 +1,12 @@
+/Users/cthostenson2/Projects/PersonalityQuiz/PersonalityQuiz/bin/Debug/netstandard2.0/PersonalityQuiz.deps.json
+/Users/cthostenson2/Projects/PersonalityQuiz/PersonalityQuiz/bin/Debug/netstandard2.0/PersonalityQuiz.dll
+/Users/cthostenson2/Projects/PersonalityQuiz/PersonalityQuiz/bin/Debug/netstandard2.0/PersonalityQuiz.pdb
+/Users/cthostenson2/Projects/PersonalityQuiz/PersonalityQuiz/obj/Debug/netstandard2.0/PersonalityQuiz.csprojAssemblyReference.cache
+/Users/cthostenson2/Projects/PersonalityQuiz/PersonalityQuiz/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/cthostenson2/Projects/PersonalityQuiz/PersonalityQuiz/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/cthostenson2/Projects/PersonalityQuiz/PersonalityQuiz/obj/Debug/netstandard2.0/PersonalityQuiz.csproj.CoreCompileInputs.cache
+/Users/cthostenson2/Projects/PersonalityQuiz/PersonalityQuiz/obj/Debug/netstandard2.0/PersonalityQuiz.AssemblyInfoInputs.cache
+/Users/cthostenson2/Projects/PersonalityQuiz/PersonalityQuiz/obj/Debug/netstandard2.0/PersonalityQuiz.AssemblyInfo.cs
+/Users/cthostenson2/Projects/PersonalityQuiz/PersonalityQuiz/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/cthostenson2/Projects/PersonalityQuiz/PersonalityQuiz/obj/Debug/netstandard2.0/PersonalityQuiz.dll
+/Users/cthostenson2/Projects/PersonalityQuiz/PersonalityQuiz/obj/Debug/netstandard2.0/PersonalityQuiz.pdb
